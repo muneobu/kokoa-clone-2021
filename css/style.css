@@ -17,11 +17,12 @@
 @import "./screens/letsaddmargin.css";
 @import "./screens/chat.css";
 @import "./components/splash.css";
+@import "./components/no-mobile.css";
+@import "./components/no-landscape.css";
 
 body {
   font-family: "Open Sans", sans-serif;
   color: #2e363e;
-  height: 100vh;
 }
 .main-screen {
   padding: 0px var(--horizontal-space);
